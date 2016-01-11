@@ -15,7 +15,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class AppLib {
-
+//just testing
     private Config config;
     private AppiumDriver driver;
     private String pathToScreenshots;
